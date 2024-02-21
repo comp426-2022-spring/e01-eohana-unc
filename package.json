@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/comp426-2022-spring/e01-eohana-unc#readme",
   "dependencies": {
-    "browser-sync": "^2.27.9"
+    "browser-sync": "^3.0.2"
   }
 }
